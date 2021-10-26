@@ -2,6 +2,7 @@ package model;
 
 import view.ProdutoView;
 
+//Classe de variáveis e Getter&Setter
 public class Produto {
 	
 	
